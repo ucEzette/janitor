@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@solana/spl-token": "^0.4.14",
+    "@types/bn.js": "^5.2.0",
+    "bn.js": "^5.2.2",
+    "buffer": "^6.0.3"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@openzeppelin/contracts": "^5.4.0",
+    "@uniswap/v3-periphery": "^1.4.4",
+    "autoprefixer": "^10.4.23",
+    "dotenv": "^17.2.3",
+    "hardhat": "^2.22.17",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.18"
+  }
+}
